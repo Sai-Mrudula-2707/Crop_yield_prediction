@@ -34,4 +34,4 @@ We've gone through a few steps to get to our results:
 
 We've used data from [FAO](http://www.fao.org/home/en/) and [World Bank](https://data.worldbank.org/).
 
-So, that's about it! If you like what you see, give us a star ⭐. Thanks and happy coding! 🚀
+
