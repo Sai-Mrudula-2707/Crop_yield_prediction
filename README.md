@@ -27,12 +27,8 @@ We've gone through a few steps to get to our results:
 3. Matplotlib
 4. Scikit-learn
 5. Seaborn
-6. Pydot
-7. Graphviz
 
-## Check it out! 📖
 
-You can find the notebook for this project [here](https://github.com/ManikantaSanjay/crop_yield_prediction_regression/blob/master/crop_yield_prediction_ml.ipynb).
 
 ## Dataset 📊
 
